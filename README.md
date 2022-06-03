@@ -28,13 +28,5 @@ I also seek knowledge in mobile languages such as React Native.
 <a href="https://twitter.com/Vtz#3236"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🌟 Github Badges
-<p>
-</p>
 
-## 🏆 GitHub Trophies
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=">
-</p>
-
-## 📊 Github Status
