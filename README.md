@@ -1,6 +1,6 @@
 
 
-<img width="100%" src="https://i.imgur.com/EooC5wJ.png" alt="my banner">
+<img width="100%" src="https://i.imgur.com/WGhVhYd.png" alt="my banner">
 
 I'm FullStack developer, i work with the best technologies of the market, such as Javascript, Typescript, Node.js and React.js.
 I also seek knowledge in mobile languages such as React Native.
