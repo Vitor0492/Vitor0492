@@ -29,4 +29,9 @@ I also seek knowledge in mobile languages such as React Native.
 </p>
 
 
+## 📊 Github Status
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=Vitor0492&show_icons=true"><p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor0492&layout=compact"><p>
 
