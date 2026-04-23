@@ -1,13 +1,16 @@
-<h1 align="center">Vitor Henrique</h1>
-<h3 align="center">Desenvolvedor Back-end • Node.js • SQL • PostgreSQL</h3>
-
+<!-- Banner animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=00C2FF&center=true&vCenter=true&width=760&lines=Construindo+APIs+robustas+e+escal%C3%A1veis;Foco+em+Back-end+e+Banco+de+Dados;SQL+e+PostgreSQL+no+dia+a+dia" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,25:1e293b,50:334155,75:475569,100:64748b&text=Vitor%20Henrique&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Data%20Modeling%20%7C%20SQL%20%7C%20PostgreSQL%20%7C%20Power%20BI&descAlignY=58&animation=fadeIn" />
+</p>
+
+<!-- Typing animado -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Desenvolvedor+focado+em+dados+e+modelagem;Uso+de+APIs+em+aplica%C3%A7%C3%B5es+reais;SQL+e+PostgreSQL+no+dia+a+dia;Atualmente+aprendendo+Power+BI" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Vitor0492">
-    <img src="https://img.shields.io/badge/GitHub-Vitor0492-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Vitor0492-111827?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/vitor-henrique-7b78b622a">
     <img src="https://img.shields.io/badge/LinkedIn-Vitor_Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -21,37 +24,49 @@
 
 ## Sobre mim
 
-Desenvolvedor com foco principal em Back-end, modelagem de dados e construção de APIs performáticas.
+Sou desenvolvedor com foco em **dados e modelagem**, trabalhando principalmente com **SQL** e **PostgreSQL**.
 
-- Atuação forte com SQL e PostgreSQL
-- Experiência em desenvolvimento de APIs e regras de negócio
-- Interesse em arquitetura de software, performance e escalabilidade
-- Boas práticas com versionamento, organização e qualidade de código
+- Forte atuação em modelagem de dados e organização de estruturas relacionais
+- Uso de APIs de terceiros em sistemas web
+- Interesse em qualidade, consistência e performance de dados
+- Atualmente estudando **Power BI** para análise e visualização
 
 ---
 
 ## Stack principal
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-0B3A53?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1D4ED8?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Modeling-334155?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-14532D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## GitHub em números
+## Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vitor0492&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor0492&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vitor0492&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor0492&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Vitor0492&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- Gráfico animado de atividade -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vitor0492&bg_color=0f172a&color=38bdf8&line=22d3ee&point=e2e8f0&area=true&hide_border=true" />
+</p>
+
+<!-- Snake animation (gera animação das contribuições se você configurar workflow) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vitor0492/Vitor0492/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -64,5 +79,5 @@ Desenvolvedor com foco principal em Back-end, modelagem de dados e construção 
 ---
 
 <p align="center">
-  <i>Disponível para oportunidades com foco em Back-end e Banco de Dados.</i>
+  <i>Foco atual: modelagem de dados, SQL/PostgreSQL e evolução em Power BI.</i>
 </p>
