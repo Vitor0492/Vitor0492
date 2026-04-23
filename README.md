@@ -64,10 +64,6 @@ Sou desenvolvedor com foco em **dados e modelagem**, trabalhando principalmente 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vitor0492&bg_color=0f172a&color=38bdf8&line=22d3ee&point=e2e8f0&area=true&hide_border=true" />
 </p>
 
-<!-- Snake animation (gera animação das contribuições se você configurar workflow) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vitor0492/Vitor0492/output/snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
