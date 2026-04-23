@@ -1,8 +1,8 @@
 <h1 align="center">Vitor Henrique</h1>
-<h3 align="center">Desenvolvedor Full Stack • React • TypeScript • Node.js</h3>
+<h3 align="center">Desenvolvedor Back-end • Node.js • SQL • PostgreSQL</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=00C2FF&center=true&vCenter=true&width=700&lines=Construindo+produtos+web+modernos+e+escal%C3%A1veis;Foco+em+React%2C+TypeScript+e+Node.js;Sempre+evoluindo+em+arquitetura%2C+performance+e+DX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=00C2FF&center=true&vCenter=true&width=760&lines=Construindo+APIs+robustas+e+escal%C3%A1veis;Foco+em+Back-end+e+Banco+de+Dados;SQL+e+PostgreSQL+no+dia+a+dia" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,25 +21,23 @@
 
 ## Sobre mim
 
-Desenvolvedor Full Stack com foco em aplicações web modernas, performáticas e bem estruturadas.
+Desenvolvedor com foco principal em Back-end, modelagem de dados e construção de APIs performáticas.
 
-- Stack principal: React, TypeScript, JavaScript e Node.js
-- Experiência com interfaces responsivas e integração com APIs
-- Evoluindo continuamente em arquitetura, boas práticas e qualidade de código
-- Explorando mobile com React Native
+- Atuação forte com SQL e PostgreSQL
+- Experiência em desenvolvimento de APIs e regras de negócio
+- Interesse em arquitetura de software, performance e escalabilidade
+- Boas práticas com versionamento, organização e qualidade de código
 
 ---
 
-## Stack que mais uso
+## Stack principal
 
 <p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
@@ -58,7 +56,7 @@ Desenvolvedor Full Stack com foco em aplicações web modernas, performáticas e
 
 ---
 
-## Onde me encontrar
+## Contato
 
 - LinkedIn: https://www.linkedin.com/in/vitor-henrique-7b78b622a
 - Email: vitorhenrique0492@gmail.com
@@ -66,5 +64,5 @@ Desenvolvedor Full Stack com foco em aplicações web modernas, performáticas e
 ---
 
 <p align="center">
-  <i>Aberto a oportunidades e colaborações em projetos Full Stack.</i>
+  <i>Disponível para oportunidades com foco em Back-end e Banco de Dados.</i>
 </p>
